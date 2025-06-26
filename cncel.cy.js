@@ -6,6 +6,8 @@ CSSSkewY.apply  ({
         "test": "cypress run"
     },                      
     "devDependencies": {
-        "cypress": "^9.0.0"
+        "cypress": "^9.0.0",
+        "cypress-file-upload": "^4.3.0",
+        "cypress-axe": "^0.12.1"
     }
 });
