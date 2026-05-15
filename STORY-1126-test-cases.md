@@ -40,11 +40,13 @@ Paste into the **story AC area**. Ordered items should become ACs; unordered ite
 2. Identify performance bottlenecks
 3. Implement caching layer
 
+
+Schedule reports
 - Consider Redis or Memcached
 - Check CDN configuration
+Run load tests
+Deploy to staging
 
-4. Run load tests
-5. Deploy to staging
 
 ---
 
