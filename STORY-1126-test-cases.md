@@ -133,14 +133,18 @@ Same content as C36650. Paste into the **description field** and then the **addi
 
 Paste into the **story AC area**. This is a mixed paste — ordered items should become ACs with formatting intact; unordered items should fall back to plain text with formatting intact.
 
-1. **Define** the scope of the authentication redesign
-2. *Review* the findings from the security audit
-3. ~~Migrate legacy session tokens~~ — already completed in the previous sprint
-4. Implement `validateToken()` with proper error handling
-5. <u>Sign off with the security team before shipping</u>
+Paragraph
 
 - **Bold** items indicate blockers that need immediate attention
 - *Italicised* notes are advisory and can be deferred
 - ~~Struck-through~~ items have already been resolved
 - Inline `code` references a specific function or value
 - <u>Underlined</u> items require a sign-off before the story can be closed
+
+1. **Define** the scope of the authentication redesign
+2. *Review* the findings from the security audit
+3. ~~Migrate legacy session tokens~~ — already completed in the previous sprint
+4. Implement `validateToken()` with proper error handling
+5. <u>Sign off with the security team before shipping</u>
+
+
