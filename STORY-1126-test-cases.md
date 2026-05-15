@@ -57,8 +57,8 @@ Paste into the **story AC area**. The presence of the ordered sublist should cau
   1. Enter your name
   2. Select your role
   3. Choose a team
- Include a paragraph in between
-  - Confirmation screen
+Include a paragraph in between
+- Confirmation screen
 - Dashboard setup
 
 ---
